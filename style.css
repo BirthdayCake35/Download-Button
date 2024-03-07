@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(72, 4, 134, 0.769);
+    margin: 5%;
+}
+
+.download{
+    font-size: 180%;
+    background-color: #1B1A55;
+    color: white;
+    padding: 2.5%;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.download:hover{
+    font-size: 200%;
+    background-color: #535C91;
+    color: white;
+    padding: 3.50%;
+    border-radius: 25px;
+    cursor: pointer;
+}
