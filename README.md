@@ -4,4 +4,6 @@ This challenge is to make sample projects that people can use. Today we made an 
 
 Developed by <b>BirthdayCake</b>
 
+_[v 1.2](v1d2.md)_
+
 [SUPPORT ME](mailto:utku0iletisim@gmail.com)
